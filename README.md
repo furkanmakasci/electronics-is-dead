@@ -16,7 +16,7 @@ https://youtube.com/shorts/oYWnQbyaOOM?feature=share
 Generic Fan
 ![](pics/2-1.jpg)
 
-![](pics/3-1.webp)
+![](pics/3-0.webp)
 ![](pics/3-1.jpg)
 ![](pics/3-2.jpg)
 ![](pics/3-3.png)
