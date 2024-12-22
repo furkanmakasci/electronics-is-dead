@@ -10,9 +10,9 @@ Old Door Bell
 ![](pics/1-1.png)
 ![](pics/1-2.png)
 ![](pics/1-3.png)
-youtube link
 
-Generic Fan
+
+
 ![](pics/2-1.png)
 
 ![](pics/3-1.png)
