@@ -7,14 +7,14 @@ production or service or both locally in each country. And, most of them already
 
 
 Old Door Bell
-![](pics/1-1.png)
-![](pics/1-2.png)
-![](pics/1-3.png)
+![](pics/1-1.jpg)
+![](pics/1-2.jpg)
+![](pics/1-3.jpg)
+youtube link
 
+Generic Fan
+![](pics/2-1.jpg)
 
-
-![](pics/2-1.png)
-
-![](pics/3-1.png)
-![](pics/3-2.png)
+![](pics/3-1.jpg)
+![](pics/3-2.jpg)
 ![](pics/3-3.png)
